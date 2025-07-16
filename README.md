@@ -1,7 +1,7 @@
 ## About me
 
 Hi 👋,
-my name is Jochen, I'm 19 years old and a german based apprentice software developer.
+my name is Jochen, I'm 19 years old and a german based software developer.
 
 ## Skills
 
